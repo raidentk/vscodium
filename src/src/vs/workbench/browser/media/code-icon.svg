@@ -4,7 +4,7 @@
     <title>codium_blue_light</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <circle id="path-1" cx="512" cy="512" r="465"></circle>
+        <circle id="path-1" cx="512" cy="512" r="470"></circle>
         <filter x="-2.0%" y="-1.5%" width="104.1%" height="104.1%" filterUnits="objectBoundingBox" id="filter-2">
             <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
             <feOffset dx="0" dy="5" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
